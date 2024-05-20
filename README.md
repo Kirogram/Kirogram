@@ -1,7 +1,5 @@
 
 프로그래머 **기정환**의 GIT 저장소에 방문해 주셔서 감사합니다  
-이 저장소에는 **4개의 프로젝트**가 준비되어 있습니다  
-3개의 프로젝트는 소스코드를 포함하고 있으며 한개의 프로젝트는 프로젝트 전반에 관한 내용이 명시되어 있습니다
 
 ## 보유 스킬
 **Front-End**   
@@ -21,20 +19,18 @@ Slack , GIT , Bitbucket , Jira , Zeplin , IntelliJ<br><br>
 
    **라이브 사이트**  
    [https://cleanbox.shop](https://cleanbox.shop/#/mainPage)  
-
-   **GitHub**  
-   [https://github.com/Kirogram/TCB](https://github.com/Kirogram/TCB)  
    
-   **Skills**
+   **주요 기술 스택**
 
-- **Framework** : Spring Framework , Angular+ , React
-- **Language** : JAVA , Javascript , Typescript
-- **Database** : Oracle
-- **DB Access** : MyBatis , JPA
-- **Cloud Server** : AWS , IWINV (Linux ubuntu , centOS)- 
-- **Server** : Tomcat (WAS) , Nginx (Web Server)
-- **Version Control** : Bitbucket
-- **ETC** : GIT , Bitbucket , Jira , Zeplin
+React , Angular , Typescript , Javascript  
+Redux(RTK) , Recoil , React-query , chart.js , bootstrap , sass(scss)  
+Webpack , ESBuild , babel  
+Java , Spring Framework  
+Oracle D/B   
+AWS , IwinV  
+GitHub , Github Actions , Bitbucket  
+Jira , Notion , Slack , Zeplin  
+
 
 **프로젝트 소개**  
 특수한 상황에서의 공간 케어가 필요한 고객들을 위해 정보와 서비스를 제공하는 플랫폼으로 편리한 인터페이스와 가입없이 모든 정보를 확인 할 수 있는 가벼운 구조로 설계되었습니다.  
@@ -52,12 +48,11 @@ Slack , GIT , Bitbucket , Jira , Zeplin , IntelliJ<br><br>
 **GitHub**  
 [https://github.com/Kirogram/BMC](https://github.com/Kirogram/BMC)  
 
-**Skills**  
-- **Front-End** : Angular16+ , TypeScript  
-- **Module** : bootstrap , Chart.js , Material  
-- **Back-End** : Java , Spring Framework 4+ , Mybatis , Selenium  
-- **Server** : Liunx Ubuntu 19  
-- **DataBase** : Oracle  
+**주요 기술 스택**  
+Angular , Typescript  
+Bootstrap , chart.js , Material  
+Java , Spring Framework , Selenium  
+
 
 **프로젝트 소개** 
    
@@ -79,32 +74,8 @@ Slack , GIT , Bitbucket , Jira , Zeplin , IntelliJ<br><br>
 [https://github.com/Kirogram/CoolCleaner](https://github.com/Kirogram/CoolCleaner)  
 
 
-**Skills**  
-- **Front-End** : React.js , TypeScripts , JavaScripts , Redux(RTK) , Jest , RTL , SCSS  
-- **Back-End** : JAVA , Spring Framework , JPA , MyBatis  
-- **Server** : Ubuntu 19  
-- **DataBase** : Oracle  
-
-**프로젝트 소개** 
-청소를 필요로 하는 고객이 방문하여 업체 정보를 확인하고 온라인 신청까지 진행 할 수 있도록 제작된 홈페이지 입니다. 방문 목적이 명확한 만큼 서브 페이지를 최소화하고 메인 페이지와 팝업을 통해 페이지의 기능 대부분을 확인 할 수 있도록 제작되었습니다.
-
----
-![레시피](https://coolcleaner.co.kr/fileDownLoad/170811799500644.jpg)
-### 4.Food Recipes - CXD
-“ 메뉴 레시피 부터 운영 가이드 까지 ”
-
- **라이브 사이트**  
-[https://admin.cxdpizza.com](https://admin.cxdpizza.com)  
-
-**GitHub**  
-[https://github.com/Kirogram/RECIPES](https://github.com/Kirogram/RECIPES)  
-   
-**Skills**  
-- **Frond-End** : Angular 17+ , HTML , TypeScripts , SCSS  
-- **Back-End** : JAVA , Spring Framework , JPA , MyBatis  
-- **Server**  : Linux Ubuntu server 21+  
-- **DataBase** : Oracle 11e  
-
-**프로젝트 소개** 
-요식업 운영에 필요한 자체 레시피 및 정보들을 저장하여 새롭게 들어오는 직원등에게 손쉽게 인수인계 할 수 있게 만들어주는 가이드 프로세스 입니다. 카테고리에 제한은 없으나 실제 적용 사례를 간단하게 보고싶어서 아는지인이 운영하는 피자집을 샘플로 만들었습니다.
+**주요 기술 스택**  
+React , Typescript  
+Redux(RTK) , Jest , RTL , sass(scss)  
+Java , Spring framework , JPA  
 
