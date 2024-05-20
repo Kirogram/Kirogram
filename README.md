@@ -1,15 +1,16 @@
 
-프로그래머 **기정환**의 GIT 저장소에 방문해 주셔서 감사합니다  
+프로그래머 **기정환**의 Git 저장소에 방문해 주셔서 감사합니다.  
 
 ## 보유 스킬
-**Front-End**   
-React.js , Angular+ , Angular.js , Redux Toolkit , Webpack , SCSS/CSS , JavaScript , TypeScript , ES6 , HTML , JSP , BootStrap  <br><br>
-**Back-End**  
-JAVA , Spring , Mybatis , JPA , Node.js , Hadoop , Linux , Tomcat , Nginx  <br><br>
-**Database**  
-Oracle , MySQL , Hbase  <br><br>
-**ETC**  
-Slack , GIT , Bitbucket , Jira , Zeplin , IntelliJ<br><br>
+React , Angular , Typescript , Javascript  
+Redux(RTK) , Recoil , React-query , chart.js , bootstrap , Matrial , sass(scss)  
+Webpack , ESBuild , babel  
+Java , Spring Framework , MyBatis , JPA  
+Oracle D/B , MySQL , Hadoop Ecosystem   
+AWS , IwinV  
+GitHub , Github Actions , Bitbucket  
+Jira , Notion , Slack , Zeplin  
+
 
 ## 프로젝트
 
